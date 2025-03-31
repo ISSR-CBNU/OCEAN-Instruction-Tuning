@@ -7,7 +7,7 @@
 | 모델명 | 기본 모델 | 파라미터 크기 | 
 |--------|-----------|--------------|
 | **FLAN-T5-Small** | FLAN-T5-Small | "" | 
-| skt/kogpt2-base-v2 | KoGPT | 125M | 
+| skt/kogpt2-base-v2 | koGPT | 125M | 
 | **** | "" | 780M | 
 | **MBart-Large-50** | MBart-Large-50 | 610M | 
 
@@ -21,7 +21,7 @@
 | 모델명 | 1 - MAE |
 |--------|------|
 | **FLAN-T5-Small** | 0.84 | 
-| ko-gpt-base-v2 | 0.8528 | 
+| kogpt-base-v2 | 0.8528 | 
 | **** | [값] | 
 
 ## 위 결과와 차이점
