@@ -1,0 +1,103 @@
+[2025-03-30 23:45:46,820]::3848060699::DEBUG::=============Mbart-large-50 instruction tuning Strat!=============
+[2025-03-30 23:52:26,929]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8311
+[2025-03-30 23:52:26,930]::4125021081::DEBUG::💾 New best model found with score 0.8311 — saving to ./basebest_model
+[2025-03-30 23:59:01,183]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7613
+[2025-03-31 00:05:30,131]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8667
+[2025-03-31 00:05:30,132]::4125021081::DEBUG::💾 New best model found with score 0.8667 — saving to ./basebest_model
+[2025-03-31 00:12:04,612]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7453
+[2025-03-31 00:18:36,627]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7603
+[2025-03-31 00:25:14,194]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8187
+[2025-03-31 00:31:50,437]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8203
+[2025-03-31 00:38:26,150]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8431
+[2025-03-31 00:45:03,385]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8413
+[2025-03-31 00:51:35,917]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8169
+[2025-03-31 00:58:10,836]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8340
+[2025-03-31 01:04:44,587]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8454
+[2025-03-31 01:11:16,540]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8236
+[2025-03-31 01:17:48,191]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7997
+[2025-03-31 01:24:18,555]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8162
+[2025-03-31 01:30:53,294]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8344
+[2025-03-31 01:37:25,811]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8124
+[2025-03-31 01:43:58,696]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8246
+[2025-03-31 01:50:32,134]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8299
+[2025-03-31 01:57:06,439]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8327
+[2025-03-31 02:03:40,870]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8381
+[2025-03-31 02:10:14,815]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8267
+[2025-03-31 02:16:48,553]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.2953
+[2025-03-31 02:23:22,173]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8270
+[2025-03-31 02:29:56,393]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8260
+[2025-03-31 02:36:30,782]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8320
+[2025-03-31 02:43:04,924]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8307
+[2025-03-31 02:49:40,666]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8317
+[2025-03-31 02:56:14,634]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2369
+[2025-03-31 03:02:48,591]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2331
+[2025-03-31 03:09:21,402]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.2983
+[2025-03-31 03:15:55,360]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8384
+[2025-03-31 03:22:29,285]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8373
+[2025-03-31 03:29:03,027]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8365
+[2025-03-31 03:35:36,870]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8369
+[2025-03-31 03:42:11,624]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3035
+[2025-03-31 03:48:45,536]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.7641
+[2025-03-31 03:55:19,241]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2303
+[2025-03-31 04:01:52,756]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3041
+[2025-03-31 04:08:26,542]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3036
+[2025-03-31 04:15:01,049]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8382
+[2025-03-31 04:21:34,870]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8388
+[2025-03-31 04:28:09,521]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8339
+[2025-03-31 04:34:43,515]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8360
+[2025-03-31 04:41:17,778]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8377
+[2025-03-31 04:47:52,449]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8364
+[2025-03-31 04:54:26,715]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3033
+[2025-03-31 05:01:01,156]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3004
+[2025-03-31 05:07:35,058]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3024
+[2025-03-31 05:14:09,803]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2329
