@@ -7,7 +7,7 @@
 | 모델명 | 기본 모델 | 파라미터 크기 | 
 |--------|-----------|--------------|
 | **FLAN-T5-Small** | FLAN-T5-Small | "" | 
-| **KoGPT **| KoGPT | 125M | 
+| KoGPT | KoGPT | 125M | 
 | **** | "" | 780M | 
 | **MBart-Large-50** | MBart-Large-50 | 610M | 
 
