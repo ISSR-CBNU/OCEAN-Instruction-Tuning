@@ -1,0 +1,110 @@
+[2025-04-01 17:20:43,798]::223847337::DEBUG::=============Mbart-Large-50-Generation instruction tuning Strat!=============
+[2025-04-01 17:23:00,438]::223847337::DEBUG::=============Mbart-Large-50-Generation instruction tuning Strat!=============
+[2025-04-01 17:26:05,652]::223847337::DEBUG::=============Mbart-Large-50-Generation instruction tuning Strat!=============
+[2025-04-01 17:35:12,816]::223847337::DEBUG::=============Mbart-Large-50-Generation instruction tuning Strat!=============
+[2025-04-01 17:41:59,198]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7404
+[2025-04-01 17:41:59,199]::4125021081::DEBUG::💾 New best model found with score 0.7404 — saving to ./generation_Mbart_model
+[2025-04-01 17:48:35,240]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7945
+[2025-04-01 17:48:35,241]::4125021081::DEBUG::💾 New best model found with score 0.7945 — saving to ./generation_Mbart_model
+[2025-04-01 17:55:16,904]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8331
+[2025-04-01 17:55:16,905]::4125021081::DEBUG::💾 New best model found with score 0.8331 — saving to ./generation_Mbart_model
+[2025-04-01 18:01:55,540]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8217
+[2025-04-01 18:08:34,509]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8112
+[2025-04-01 18:15:11,430]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8469
+[2025-04-01 18:15:11,432]::4125021081::DEBUG::💾 New best model found with score 0.8469 — saving to ./generation_Mbart_model
+[2025-04-01 18:21:51,170]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8371
+[2025-04-01 18:28:28,453]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8309
+[2025-04-01 18:35:05,501]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8396
+[2025-04-01 18:41:44,220]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8489
+[2025-04-01 18:41:44,222]::4125021081::DEBUG::💾 New best model found with score 0.8489 — saving to ./generation_Mbart_model
+[2025-04-01 18:48:24,371]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8447
+[2025-04-01 18:55:00,974]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8395
+[2025-04-01 19:01:37,678]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8392
+[2025-04-01 19:08:13,763]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8362
+[2025-04-01 19:14:51,156]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.2291
+[2025-04-01 19:21:26,278]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8451
+[2025-04-01 19:28:01,012]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2713
+[2025-04-01 19:34:36,165]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8496
+[2025-04-01 19:34:36,166]::4125021081::DEBUG::💾 New best model found with score 0.8496 — saving to ./generation_Mbart_model
+[2025-04-01 19:41:13,307]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8438
+[2025-04-01 19:47:47,049]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8391
+[2025-04-01 19:54:20,652]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8460
+[2025-04-01 20:00:55,162]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8426
+[2025-04-01 20:07:28,217]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8462
+[2025-04-01 20:14:01,612]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8420
+[2025-04-01 20:20:36,341]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8463
+[2025-04-01 20:27:10,254]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8415
+[2025-04-01 20:33:44,576]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8425
+[2025-04-01 20:40:19,022]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8430
+[2025-04-01 20:46:52,616]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8429
+[2025-04-01 20:53:26,982]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8440
+[2025-04-01 21:00:00,153]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8402
+[2025-04-01 21:06:34,754]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8418
+[2025-04-01 21:13:08,414]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8432
+[2025-04-01 21:19:43,223]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.7838
+[2025-04-01 21:26:17,947]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8434
+[2025-04-01 21:32:51,961]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8440
+[2025-04-01 21:39:26,755]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8436
+[2025-04-01 21:46:00,738]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3082
+[2025-04-01 21:52:35,722]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2942
+[2025-04-01 21:59:10,238]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: -0.2815
+[2025-04-01 22:05:44,921]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3089
+[2025-04-01 22:12:19,095]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8454
+[2025-04-01 22:18:54,128]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3103
+[2025-04-01 22:25:27,386]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8440
+[2025-04-01 22:32:01,444]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3110
+[2025-04-01 22:38:36,354]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.8448
+[2025-04-01 22:45:10,293]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3111
+[2025-04-01 22:51:44,393]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3115
+[2025-04-01 22:58:18,907]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3126
+[2025-04-01 23:04:52,468]::3631506463::DEBUG::
+🧪 Custom Evaluation — 1 - MAE: 0.3120
