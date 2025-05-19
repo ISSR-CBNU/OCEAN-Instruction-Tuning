@@ -10,7 +10,7 @@
 | **** | "" | 250M | 
 | **** | "" | 780M | 
 | **MBart-Large-50** | MBart-Large-50 | 610M |
-| **KoRoBERTa** | KoRoBERTa | 115M |
+| **KoRoBERTa** | KoRoBERTa | 115M(LoRA) |
 
 ### 공통 사항
 - **인스트럭션 튜닝**: 모든 모델은 성격 특성 평가를 위한 맞춤형 프롬프트 및 응답으로 파인튜닝.
