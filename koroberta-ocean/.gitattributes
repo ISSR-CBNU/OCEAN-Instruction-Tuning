@@ -1,0 +1,2 @@
+koRoBERTa_base-checkpoint16000/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+koRoBERTa_base-checkpoint16000/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
